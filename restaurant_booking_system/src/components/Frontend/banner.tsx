@@ -5,7 +5,7 @@ export default function Banner() {
   return (
     <section>
       <div className="mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-4">
-        <div className="max-w-xl text-center sm:text-left lg:pl-12">
+        <div className="max-w-xl text-center sm:text-left lg:pl-15">
           <h1 className="text-3xl font-extrabold sm:text-5xl">
               Welcome to
             <strong className="block font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-lime-600 to-green-500">

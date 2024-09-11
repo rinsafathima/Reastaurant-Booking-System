@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .react-calendar {
   max-width: 450px;
   background: white;
