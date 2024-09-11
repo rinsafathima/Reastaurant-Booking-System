@@ -6,7 +6,7 @@ export default function Testimonial() {
     <section>
       <div className="mx-auto max-w-screen-xl sm:p-14 p-4">
         <h2 className="text-center text-4xl font-bold tracking-tight sm:text-5xl">
-        Our Customers' Testimonials
+        Customer Testimonials
         </h2>
         <div className="mt-12 grid grid-cols-1 gap-4 md:grid-cols-3 md:gap-8">
           <blockquote className="rounded-lg bg-gray-100 p-8">
@@ -25,7 +25,7 @@ export default function Testimonial() {
             </div>
 
             <p className="line-clamp-2 sm:line-clamp-none mt-4 text-gray-500">
-              If you're looking for authentic Chinese food, this is the place for you.
+              Are you looking for authentic Chinese food? this is the place for you.
             </p>
           </blockquote>
 

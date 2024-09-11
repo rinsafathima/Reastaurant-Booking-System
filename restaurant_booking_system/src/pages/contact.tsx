@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
           <div className="lg:flex lg:items-center lg:-mx-6">
             <div className="lg:w-1/2 lg:mx-6 m-16">
               <h1 className="text-2xl font-semibold text-gray-800  lg:text-3xl">
-                Let's Talk Delicious! 
+                Talk Delicious! 
               </h1>
 
               <div className="mt-6 space-y-8 md:mt-8 ">
