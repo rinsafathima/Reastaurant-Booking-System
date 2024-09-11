@@ -79,7 +79,7 @@ const ContactForm: React.FC = () => {
                             className="mr-2"
                             id="privacyPolicy"
                             type="checkbox" {...register("privacyPolicy", { required: "You must accept the data protection policy" })} />
-                         I have read and accept the website's data protection policy
+                         I have read and accept the data protection policy
                     </label>
                     {errors.privacyPolicy && <p className="text-red-500 text-sm">{errors.privacyPolicy.message}</p>}
                 </div>
